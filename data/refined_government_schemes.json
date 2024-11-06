@@ -1,0 +1,1700 @@
+[
+    {
+        "scheme_name": "Atal Pension Yojana (APY)",
+        "eligibility_criteria": {
+            "income": "Annual household income below 3 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Financial aid for setting up agricultural projects",
+            "Nutritional food kits for low-income pregnant women",
+            "Guaranteed employment in public works projects",
+            "Direct cash transfers for widow and disabled support programs",
+            "Skill development training with certification upon completion"
+        ]
+    },
+    {
+        "scheme_name": "National Women Livelihoods Mission",
+        "eligibility_criteria": {
+            "income": "Household income limit of 6 lakh for eligibility",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Access to telemedicine facilities in rural health centers",
+            "Subsidized solar panel installation for energy independence",
+            "Free professional counseling and career guidance",
+            "Access to free medical consultations and wellness checks"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Program",
+        "eligibility_criteria": {
+            "income": "Annual income between 3 lakh to 6 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Resident of rural areas only",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Nutritional food kits for low-income pregnant women",
+            "Subsidized housing loans with flexible repayment terms",
+            "Low-interest micro-loans for business startup",
+            "Cashless healthcare for specific critical illnesses"
+        ]
+    },
+    {
+        "scheme_name": "Food Processing Scheme",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "At least secondary education completed",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Guaranteed employment in public works projects",
+            "Educational grants for children in economically weaker sections",
+            "Nutritional food kits for low-income pregnant women"
+        ]
+    },
+    {
+        "scheme_name": "Ayushman Bharat - Health and Wellness Centres",
+        "eligibility_criteria": {
+            "income": "Household income limit of 6 lakh for eligibility",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Resident of rural areas only",
+            "employment": "Not employed in government or public sector roles",
+            "education": "At least secondary education completed",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Nutritional food kits for low-income pregnant women",
+            "Financial support for handicraft and artisan businesses",
+            "Training and mentorship programs for budding entrepreneurs",
+            "Monthly stipend of \u20b95,000 for youth internships"
+        ]
+    },
+    {
+        "scheme_name": "Employment Generation Programme",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age between 21 to 40 years",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Subsidized solar panel installation for energy independence",
+            "Educational grants for children in economically weaker sections",
+            "Annual scholarships for high-performing students",
+            "Access to free medical consultations and wellness checks",
+            "Monthly pension support for senior citizens"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Digital Health Mission",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Resident of rural areas only",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Subsidized housing loans with flexible repayment terms",
+            "Educational grants for children in economically weaker sections",
+            "Financial support for handicraft and artisan businesses",
+            "Skill development training with certification upon completion",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Low-interest micro-loans for business startup",
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Cashless healthcare for specific critical illnesses"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Not employed in government or public sector roles",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Financial aid for setting up agricultural projects",
+            "Access to free medical consultations and wellness checks",
+            "Subsidized housing loans with flexible repayment terms",
+            "Educational grants for children in economically weaker sections",
+            "Financial support for handicraft and artisan businesses"
+        ]
+    },
+    {
+        "scheme_name": "Public Distribution System (PDS)",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age between 21 to 40 years",
+            "residence": "Resident of rural areas only",
+            "employment": "Not employed in government or public sector roles",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Subsidized housing loans with flexible repayment terms",
+            "Guaranteed employment in public works projects",
+            "Housing subsidies for constructing rural homes",
+            "Nutritional food kits for low-income pregnant women"
+        ]
+    },
+    {
+        "scheme_name": "National Food Security Act (NFSA)",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Housing subsidies for constructing rural homes",
+            "Annual scholarships for high-performing students",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "National Rural Livelihoods Mission (NRLM)",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "For individuals with no fixed employment",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Financial support for handicraft and artisan businesses",
+            "Educational grants for children in economically weaker sections"
+        ]
+    },
+    {
+        "scheme_name": "Swachh Survekshan",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age between 21 to 40 years",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Interest-free loans for rural women's cooperatives",
+            "Educational grants for children in economically weaker sections",
+            "Training and mentorship programs for budding entrepreneurs"
+        ]
+    },
+    {
+        "scheme_name": "PM Skill India Mission",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Access to free medical consultations and wellness checks",
+            "Provision of digital literacy training for family members",
+            "Training and mentorship programs for budding entrepreneurs"
+        ]
+    },
+    {
+        "scheme_name": "Self-Employment Program",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Monthly pension support for senior citizens",
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Annual scholarships for high-performing students",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "Atmanirbhar Bharat Scheme",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Financial aid for setting up agricultural projects",
+            "Access to free medical consultations and wellness checks",
+            "Housing subsidies for constructing rural homes"
+        ]
+    },
+    {
+        "scheme_name": "National Women Livelihoods Mission",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age between 21 to 40 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Skill development training with certification upon completion",
+            "Subsidized solar panel installation for energy independence",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "National Food Security Act (NFSA)",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Annual scholarships for high-performing students",
+            "Financial support for handicraft and artisan businesses",
+            "Cashless healthcare for specific critical illnesses",
+            "Access to free medical consultations and wellness checks",
+            "Monthly stipend of \u20b95,000 for youth internships"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Digital India Yojana",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Self-employed or freelance workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Nutritional food kits for low-income pregnant women",
+            "Access to free medical consultations and wellness checks",
+            "Access to telemedicine facilities in rural health centers",
+            "Annual scholarships for high-performing students"
+        ]
+    },
+    {
+        "scheme_name": "National Agricultural Policy",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Self-employed or freelance workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Interest-free loans for rural women's cooperatives",
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Access to free medical consultations and wellness checks",
+            "Skill development training with certification upon completion"
+        ]
+    },
+    {
+        "scheme_name": "Atmanirbhar Bharat Scheme",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Access to free medical consultations and wellness checks",
+            "Direct cash transfers for widow and disabled support programs",
+            "Monthly pension support for senior citizens",
+            "Subsidized housing loans with flexible repayment terms"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Gati Shakti Yojana",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Financial aid for setting up agricultural projects",
+            "Guaranteed employment in public works projects",
+            "Interest-free loans for rural women's cooperatives",
+            "Educational grants for children in economically weaker sections"
+        ]
+    },
+    {
+        "scheme_name": "National Health Mission (NHM)",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Age between 21 to 40 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Guaranteed employment in public works projects",
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Low-interest micro-loans for business startup"
+        ]
+    },
+    {
+        "scheme_name": "Integrated Rural Development Programme",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Free professional counseling and career guidance"
+        ]
+    },
+    {
+        "scheme_name": "National Biofuel Policy",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Subsidized solar panel installation for energy independence",
+            "Skill development training with certification upon completion",
+            "Loan forgiveness for farmers in drought-hit regions"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Resident of rural areas only",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Training and mentorship programs for budding entrepreneurs",
+            "Subsidized housing loans with flexible repayment terms",
+            "Educational grants for children in economically weaker sections",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "Rural Livelihood Mission - Skill Development Program",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Monthly pension support for senior citizens",
+            "Educational grants for children in economically weaker sections",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "Employment Generation Programme",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Self-employed or freelance workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Financial support for handicraft and artisan businesses",
+            "Skill development training with certification upon completion",
+            "Financial aid for setting up agricultural projects",
+            "Annual scholarships for high-performing students",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "PM Employment Generation Programme (PMEGP)",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Financial support for handicraft and artisan businesses",
+            "Annual scholarships for high-performing students",
+            "Access to free medical consultations and wellness checks",
+            "Guaranteed employment in public works projects",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Garib Kalyan Yojana",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Skill development training with certification upon completion",
+            "Direct cash transfers for widow and disabled support programs",
+            "Cashless healthcare for specific critical illnesses",
+            "Insurance cover of \u20b92 lakh under accidental policies"
+        ]
+    },
+    {
+        "scheme_name": "National Biofuel Policy",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Interest-free loans for rural women's cooperatives",
+            "Financial aid for setting up agricultural projects",
+            "Monthly pension support for senior citizens",
+            "Free professional counseling and career guidance"
+        ]
+    },
+    {
+        "scheme_name": "Employment Generation Programme",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Cashless healthcare for specific critical illnesses",
+            "Nutritional food kits for low-income pregnant women"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Program",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Educational grants for children in economically weaker sections",
+            "Low-interest micro-loans for business startup",
+            "Monthly pension support for senior citizens",
+            "Training and mentorship programs for budding entrepreneurs"
+        ]
+    },
+    {
+        "scheme_name": "National Urban Transport Policy",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Direct cash transfers for widow and disabled support programs",
+            "Subsidized housing loans with flexible repayment terms",
+            "Annual scholarships for high-performing students",
+            "Insurance cover of \u20b92 lakh under accidental policies"
+        ]
+    },
+    {
+        "scheme_name": "National Biodiversity Action Plan",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Skill development training with certification upon completion",
+            "Free professional counseling and career guidance",
+            "Subsidized solar panel installation for energy independence"
+        ]
+    },
+    {
+        "scheme_name": "Startup India Seed Fund Scheme",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Nutritional food kits for low-income pregnant women",
+            "Access to free medical consultations and wellness checks",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Kisan Mandi Yojana",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age between 21 to 40 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "For individuals with no fixed employment",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Housing subsidies for constructing rural homes",
+            "Annual scholarships for high-performing students",
+            "Insurance cover of \u20b92 lakh under accidental policies"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age between 21 to 40 years",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Annual scholarships for high-performing students",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Educational grants for children in economically weaker sections",
+            "Direct cash transfers for widow and disabled support programs",
+            "Nutritional food kits for low-income pregnant women"
+        ]
+    },
+    {
+        "scheme_name": "Public Distribution System (PDS)",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Age between 21 to 40 years",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Interest-free loans for rural women's cooperatives",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "Agricultural Micro-Loan Program",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Monthly pension support for senior citizens",
+            "Free professional counseling and career guidance",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "Rural Housing Scheme",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Resident of rural areas only",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Direct cash transfers for widow and disabled support programs",
+            "Training and mentorship programs for budding entrepreneurs",
+            "Housing subsidies for constructing rural homes",
+            "Interest-free loans for rural women's cooperatives",
+            "Access to free medical consultations and wellness checks"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Urban and semi-urban residents",
+            "employment": "For individuals with no fixed employment",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Financial support for handicraft and artisan businesses",
+            "Annual scholarships for high-performing students",
+            "Interest-free loans for rural women's cooperatives",
+            "Subsidized solar panel installation for energy independence",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Housing subsidies for constructing rural homes",
+            "Interest-free loans for rural women's cooperatives",
+            "Educational grants for children in economically weaker sections",
+            "Annual scholarships for high-performing students"
+        ]
+    },
+    {
+        "scheme_name": "Rural Livelihood Mission - Skill Development Program",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Direct cash transfers for widow and disabled support programs",
+            "Subsidized housing loans with flexible repayment terms",
+            "Insurance cover of \u20b92 lakh under accidental policies"
+        ]
+    },
+    {
+        "scheme_name": "Green Energy Subsidy Scheme for Households",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Skill development training with certification upon completion",
+            "Financial support for handicraft and artisan businesses",
+            "Provision of digital literacy training for family members",
+            "Loan forgiveness for farmers in drought-hit regions"
+        ]
+    },
+    {
+        "scheme_name": "Atmanirbhar Bharat Scheme",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Training and mentorship programs for budding entrepreneurs",
+            "Housing subsidies for constructing rural homes"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Internship Programme",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Not employed in government or public sector roles",
+            "education": "At least secondary education completed",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Educational grants for children in economically weaker sections",
+            "Monthly pension support for senior citizens",
+            "Free professional counseling and career guidance"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Digital India Yojana",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Urban and semi-urban residents",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Housing subsidies for constructing rural homes",
+            "Monthly stipend of \u20b95,000 for youth internships"
+        ]
+    },
+    {
+        "scheme_name": "National Policy on Skill Development and Entrepreneurship",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Age between 21 to 40 years",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Training and mentorship programs for budding entrepreneurs",
+            "Cashless healthcare for specific critical illnesses",
+            "Annual scholarships for high-performing students"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Gati Shakti Yojana",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Free professional counseling and career guidance",
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Guaranteed employment in public works projects"
+        ]
+    },
+    {
+        "scheme_name": "National Urban Transport Policy",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Access to telemedicine facilities in rural health centers",
+            "Financial support for handicraft and artisan businesses",
+            "Nutritional food kits for low-income pregnant women",
+            "Skill development training with certification upon completion"
+        ]
+    },
+    {
+        "scheme_name": "National Pension Scheme for Unorganized Workers (NPS-UW)",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Skill development training with certification upon completion",
+            "Interest-free loans for rural women's cooperatives",
+            "Annual scholarships for high-performing students"
+        ]
+    },
+    {
+        "scheme_name": "Swachh Bharat Mission - Sanitation Facilities Program",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Monthly pension support for senior citizens",
+            "Subsidized housing loans with flexible repayment terms",
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Skill development training with certification upon completion"
+        ]
+    },
+    {
+        "scheme_name": "Employment Generation Programme",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age between 21 to 40 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Subsidized solar panel installation for energy independence",
+            "Interest-free loans for rural women's cooperatives",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "Agricultural Micro-Loan Program",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age between 21 to 40 years",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "For individuals with no fixed employment",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Annual scholarships for high-performing students",
+            "Monthly pension support for senior citizens",
+            "Loan forgiveness for farmers in drought-hit regions"
+        ]
+    },
+    {
+        "scheme_name": "Atmanirbhar Bharat Scheme",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Financial support for handicraft and artisan businesses",
+            "Educational grants for children in economically weaker sections",
+            "Interest-free loans for rural women's cooperatives",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum"
+        ]
+    },
+    {
+        "scheme_name": "Food Processing Scheme",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Age between 21 to 40 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Subsidized solar panel installation for energy independence",
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Low-interest micro-loans for business startup",
+            "Housing subsidies for constructing rural homes",
+            "Training and mentorship programs for budding entrepreneurs"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Program",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Age between 21 to 40 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Subsidized solar panel installation for energy independence",
+            "Guaranteed employment in public works projects",
+            "Financial support for handicraft and artisan businesses"
+        ]
+    },
+    {
+        "scheme_name": "Agricultural Micro-Loan Program",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Monthly stipend of \u20b95,000 for youth internships"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Gati Shakti Yojana",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Access to free medical consultations and wellness checks",
+            "Cashless healthcare for specific critical illnesses",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Mudra Yojana (PMMY)",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Educational grants for children in economically weaker sections",
+            "Subsidized solar panel installation for energy independence",
+            "Interest-free loans for rural women's cooperatives"
+        ]
+    },
+    {
+        "scheme_name": "Ayushman Bharat - Health and Wellness Centres",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Cashless healthcare for specific critical illnesses",
+            "Interest-free loans for rural women's cooperatives",
+            "Annual scholarships for high-performing students",
+            "Guaranteed employment in public works projects"
+        ]
+    },
+    {
+        "scheme_name": "Rural Housing Scheme",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Educational grants for children in economically weaker sections",
+            "Access to free medical consultations and wellness checks",
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "National Health Mission (NHM)",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Free professional counseling and career guidance",
+            "Subsidized housing loans with flexible repayment terms",
+            "Direct cash transfers for widow and disabled support programs",
+            "Financial aid for setting up agricultural projects"
+        ]
+    },
+    {
+        "scheme_name": "Mahatma Gandhi Sarva Shiksha Abhiyan",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Financial aid for setting up agricultural projects",
+            "Access to free medical consultations and wellness checks",
+            "Skill development training with certification upon completion",
+            "Subsidized housing loans with flexible repayment terms"
+        ]
+    },
+    {
+        "scheme_name": "National MSME Policy",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Self-employed or freelance workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Direct cash transfers for widow and disabled support programs",
+            "Financial support for handicraft and artisan businesses",
+            "Housing subsidies for constructing rural homes"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Internship Programme",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Age between 21 to 40 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "For individuals with no fixed employment",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Cashless healthcare for specific critical illnesses",
+            "Access to free medical consultations and wellness checks",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    },
+    {
+        "scheme_name": "National Biodiversity Action Plan",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Housing subsidies for constructing rural homes",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Direct cash transfers for widow and disabled support programs",
+            "Skill development training with certification upon completion",
+            "Insurance cover of \u20b92 lakh under accidental policies"
+        ]
+    },
+    {
+        "scheme_name": "Agricultural Micro-Loan Program",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Interest-free loans for rural women's cooperatives",
+            "Free professional counseling and career guidance",
+            "Subsidized housing loans with flexible repayment terms"
+        ]
+    },
+    {
+        "scheme_name": "Women\u2019s Empowerment Schemes",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Self-employed or freelance workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Nutritional food kits for low-income pregnant women",
+            "Financial aid for setting up agricultural projects",
+            "Housing subsidies for constructing rural homes",
+            "Free professional counseling and career guidance",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum"
+        ]
+    },
+    {
+        "scheme_name": "Women Entrepreneurship Program",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age between 21 to 40 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Training and mentorship programs for budding entrepreneurs",
+            "Low-interest micro-loans for business startup",
+            "Free professional counseling and career guidance",
+            "Educational grants for children in economically weaker sections"
+        ]
+    },
+    {
+        "scheme_name": "Swasth Bharat Yatra",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Financial support for handicraft and artisan businesses",
+            "Annual scholarships for high-performing students",
+            "Provision of digital literacy training for family members",
+            "Interest-free loans for rural women's cooperatives"
+        ]
+    },
+    {
+        "scheme_name": "Make in India Initiative",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Guaranteed employment in public works projects",
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Direct cash transfers for widow and disabled support programs",
+            "Cashless healthcare for specific critical illnesses",
+            "Financial support for handicraft and artisan businesses"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "Not employed in government or public sector roles",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Access to free medical consultations and wellness checks",
+            "Financial aid for setting up agricultural projects",
+            "Subsidized housing loans with flexible repayment terms",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "Integrated Watershed Management Programme",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Monthly pension support for senior citizens",
+            "Annual scholarships for high-performing students"
+        ]
+    },
+    {
+        "scheme_name": "Startup India Seed Fund Scheme",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Access to telemedicine facilities in rural health centers",
+            "Training and mentorship programs for budding entrepreneurs",
+            "Housing subsidies for constructing rural homes",
+            "Educational grants for children in economically weaker sections"
+        ]
+    },
+    {
+        "scheme_name": "National Agricultural Policy",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Access to telemedicine facilities in rural health centers",
+            "Financial aid for setting up agricultural projects",
+            "Subsidized housing loans with flexible repayment terms"
+        ]
+    },
+    {
+        "scheme_name": "National Rural Livelihoods Mission (NRLM)",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Skill development training with certification upon completion",
+            "Cashless healthcare for specific critical illnesses",
+            "Free professional counseling and career guidance"
+        ]
+    },
+    {
+        "scheme_name": "Self-Employment Program",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Access to telemedicine facilities in rural health centers",
+            "Educational grants for children in economically weaker sections",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "Skill Development Initiative Scheme",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Access to telemedicine facilities in rural health centers",
+            "Subsidized solar panel installation for energy independence",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "National MSME Policy",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Nutritional food kits for low-income pregnant women",
+            "Financial support for handicraft and artisan businesses",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "Rural Infrastructure Development Fund",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Applicable for residents of specific states",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Subsidized solar panel installation for energy independence",
+            "Nutritional food kits for low-income pregnant women",
+            "Provision of digital literacy training for family members",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "National Biodiversity Action Plan",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Monthly pension support for senior citizens",
+            "Direct cash transfers for widow and disabled support programs",
+            "Interest-free loans for rural women's cooperatives",
+            "Provision of digital literacy training for family members",
+            "Access to free medical consultations and wellness checks"
+        ]
+    },
+    {
+        "scheme_name": "PM Gramin Awaas Yojana",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Skill development training with certification upon completion",
+            "Low-interest micro-loans for business startup",
+            "Educational grants for children in economically weaker sections",
+            "Loan forgiveness for farmers in drought-hit regions"
+        ]
+    },
+    {
+        "scheme_name": "Digital India - E-Governance",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Self-employed or freelance workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Direct cash transfers for widow and disabled support programs",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Skill development training with certification upon completion",
+            "Access to free medical consultations and wellness checks",
+            "Free professional counseling and career guidance"
+        ]
+    },
+    {
+        "scheme_name": "Swachh Survekshan",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Subsidized housing loans with flexible repayment terms",
+            "Cashless healthcare for specific critical illnesses",
+            "Educational grants for children in economically weaker sections"
+        ]
+    },
+    {
+        "scheme_name": "Self-Help Group (SHG) Program",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "For individuals with no fixed employment",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Subsidized solar panel installation for energy independence",
+            "Annual scholarships for high-performing students",
+            "Low-interest micro-loans for business startup",
+            "Insurance cover of \u20b92 lakh under accidental policies"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Digital Health Mission",
+        "eligibility_criteria": {
+            "income": "Annual income between \u20b93 lakh to \u20b96 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Financial support for handicraft and artisan businesses",
+            "Provision of digital literacy training for family members",
+            "Subsidized housing loans with flexible repayment terms",
+            "Cashless healthcare for specific critical illnesses"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Internship Programme",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age between 21 to 40 years",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Nutritional food kits for low-income pregnant women",
+            "Access to telemedicine facilities in rural health centers"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Program",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Working age group between 18 to 55 years",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Not employed in government or public sector roles",
+            "education": "At least secondary education completed",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Low-interest micro-loans for business startup",
+            "Free professional counseling and career guidance"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Awas Yojana - Urban (PMAY-U)",
+        "eligibility_criteria": {
+            "income": "Family income below \u20b95 lakh per annum",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Direct cash transfers for widow and disabled support programs",
+            "Low-interest micro-loans for business startup",
+            "Financial support for handicraft and artisan businesses"
+        ]
+    },
+    {
+        "scheme_name": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Must have lived in locality for at least 5 years",
+            "employment": "For individuals with no fixed employment",
+            "education": "At least secondary education completed",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Training and mentorship programs for budding entrepreneurs",
+            "Subsidized solar panel installation for energy independence",
+            "Interest-free loans for rural women's cooperatives",
+            "Financial aid for setting up agricultural projects",
+            "Low-interest micro-loans for business startup"
+        ]
+    },
+    {
+        "scheme_name": "Swasth Bharat Yatra",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Applicable for residents of specific states",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Scheduled Caste/Scheduled Tribe families"
+        },
+        "benefits": [
+            "Low-interest micro-loans for business startup",
+            "Guaranteed employment in public works projects",
+            "Monthly pension support for senior citizens"
+        ]
+    },
+    {
+        "scheme_name": "Women Entrepreneurship Program",
+        "eligibility_criteria": {
+            "income": "Monthly income below \u20b915,000",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Access to telemedicine facilities in rural health centers",
+            "Cashless healthcare for specific critical illnesses",
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "National Food Security Act (NFSA)",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Not employed in government or public sector roles",
+            "education": "Graduate degree in relevant field required",
+            "family_status": "Families with physically disabled members"
+        },
+        "benefits": [
+            "Financial aid for setting up agricultural projects",
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Low-interest micro-loans for business startup",
+            "Monthly pension support for senior citizens",
+            "Subsidized housing loans with flexible repayment terms"
+        ]
+    },
+    {
+        "scheme_name": "Startup India Initiative",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Proof of residence required for eligibility",
+            "employment": "Preference for unskilled or semi-skilled workers",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Low-interest micro-loans for business startup",
+            "Access to free medical consultations and wellness checks",
+            "Free professional counseling and career guidance",
+            "Educational grants for children in economically weaker sections",
+            "Housing subsidies for constructing rural homes"
+        ]
+    },
+    {
+        "scheme_name": "National Rural Livelihoods Mission (NRLM)",
+        "eligibility_criteria": {
+            "income": "Annual household income below \u20b93 lakh",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Training and mentorship programs for budding entrepreneurs",
+            "Monthly stipend of \u20b95,000 for youth internships",
+            "Low-interest micro-loans for business startup",
+            "Nutritional food kits for low-income pregnant women"
+        ]
+    },
+    {
+        "scheme_name": "Digital India Program",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Senior citizens aged 60 and above",
+            "residence": "Urban and semi-urban residents",
+            "employment": "Self-employed or freelance workers",
+            "education": "Certification in specific skills preferred",
+            "family_status": "Widowed or orphaned family members"
+        },
+        "benefits": [
+            "Annual scholarships for high-performing students",
+            "Housing subsidies for constructing rural homes",
+            "Direct cash transfers for widow and disabled support programs",
+            "Provision of digital literacy training for family members"
+        ]
+    },
+    {
+        "scheme_name": "Rural Housing Scheme",
+        "eligibility_criteria": {
+            "income": "Household income limit of \u20b96 lakh for eligibility",
+            "age": "Applicants must be between 18 to 50 years of age",
+            "residence": "Resident of rural areas only",
+            "employment": "Self-employed or freelance workers",
+            "education": "At least secondary education completed",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Housing subsidies for constructing rural homes",
+            "Loan forgiveness for farmers in drought-hit regions",
+            "Insurance cover of \u20b92 lakh under accidental policies",
+            "Skill development training with certification upon completion",
+            "Nutritional food kits for low-income pregnant women"
+        ]
+    },
+    {
+        "scheme_name": "Technology Development and Transfer",
+        "eligibility_criteria": {
+            "income": "Income not exceeding \u20b92.5 lakh for individual applicants",
+            "age": "Age limit of 35 years for special youth schemes",
+            "residence": "Urban and semi-urban residents",
+            "employment": "For individuals with no fixed employment",
+            "education": "Minimum qualification of high school diploma",
+            "family_status": "Single or female-headed households"
+        },
+        "benefits": [
+            "Provision of digital literacy training for family members",
+            "Free health insurance cover up to \u20b95 lakhs per family per annum",
+            "Financial support for handicraft and artisan businesses",
+            "Direct cash transfers for widow and disabled support programs"
+        ]
+    }
+]

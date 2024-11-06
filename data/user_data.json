@@ -1,0 +1,10 @@
+{
+    "name": "Adi",
+    "income": 7000,
+    "gender": "female",
+    "age": 22,
+    "residence": "rural",
+    "disability": "none",
+    "family_status": "single",
+    "education": "secondary"
+}

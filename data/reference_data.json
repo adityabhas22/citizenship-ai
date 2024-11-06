@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Aditya Bhaskara",
+        "dob": "22/09/2005",
+        "phone number": "9916968672",
+        "address": "123 Main St"
+    },
+    {
+        "name": "John Doe",
+        "dob": "1990-01-01",
+        "phone": "9876543210",
+        "address": "456 Elm St"
+    }
+]
