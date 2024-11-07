@@ -1,7 +1,7 @@
 {
-    "name": "Adi",
-    "income": 7000,
-    "gender": "female",
+    "name": "adi",
+    "income": 1000,
+    "gender": "male",
     "age": 22,
     "residence": "rural",
     "disability": "none",
