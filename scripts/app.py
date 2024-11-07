@@ -80,14 +80,15 @@ def save_user():
         
         # Initialize SchemeDatabase and search for schemes
         try:
-            db = SchemeDatabase(DB_PATH)  # Pass the correct database path
+            logger.debug(f"Attempting to connect to database at: {DB_PATH}")
+            db = SchemeDatabase(DB_PATH)
             schemes = db.get_schemes_for_user(user_data)
             logger.debug(f"Retrieved schemes: {schemes}")
             db.close()
             
-            if schemes is None:
-                return jsonify({"error": "No schemes found"}), 404
-                
+            if not schemes:
+                schemes = "No matching schemes found for your profile."
+            
             return jsonify({
                 "message": "User data saved successfully",
                 "schemes": schemes,
@@ -105,9 +106,6 @@ def save_user():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    try:
-        # Initialize database before starting the server
-        init_db()
-        app.run(debug=True, port=3001)
-    except Exception as e:
-        logger.error(f"Failed to start server: {e}")
+    if not os.path.exists(DB_PATH):
+        logger.warning("Database not found. Please run init_db.py first")
+    app.run(debug=True, port=3001)

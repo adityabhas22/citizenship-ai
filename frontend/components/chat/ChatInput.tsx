@@ -17,14 +17,23 @@ export default function ChatInput() {
 
     return (
         <form onSubmit={handleSubmit} className="p-4 bg-white border-t">
-            <input
-                type="text"
-                value={input}
-                onChange={(e) => setInput(e.target.value)}
-                className="w-full p-3 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                placeholder={isComplete ? "Chat complete" : "Type your answer..."}
-                disabled={isComplete}
-            />
+            <div className="flex space-x-2">
+                <input
+                    type="text"
+                    value={input}
+                    onChange={(e: React.ChangeEvent<HTMLInputElement>) => setInput(e.target.value)}
+                    className="flex-grow p-2 border rounded"
+                    placeholder={isComplete ? "Chat complete" : "Type your answer..."}
+                    disabled={isComplete}
+                />
+                <button 
+                    type="submit" 
+                    className="px-4 py-2 bg-blue-500 text-white rounded disabled:opacity-50"
+                    disabled={isComplete || !input.trim()}
+                >
+                    Send
+                </button>
+            </div>
         </form>
     );
-} 
+}

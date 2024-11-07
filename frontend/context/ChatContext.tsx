@@ -107,13 +107,12 @@ export function ChatProvider({ children }: { children: ReactNode }) {
                         body: JSON.stringify(updatedUserData)
                     });
 
-                    if (!response.ok) {
-                        const errorData = await response.json();
-                        throw new Error(errorData.error || 'Failed to save user data');
-                    }
-
                     const data = await response.json();
                     console.log('Received response:', data);
+
+                    if (!response.ok) {
+                        throw new Error(data.error || 'Failed to save user data');
+                    }
 
                     if (data.schemes) {
                         setSchemes(data.schemes);
@@ -122,7 +121,11 @@ export function ChatProvider({ children }: { children: ReactNode }) {
                             role: 'assistant'
                         });
                     } else {
-                        throw new Error('No schemes data in response');
+                        addMessage({
+                            content: "No matching schemes found for your profile.",
+                            role: 'assistant'
+                        });
+                        setSchemes("No matching schemes found.");
                     }
                 } catch (error) {
                     console.error('API Error:', error);

@@ -37,7 +37,7 @@ export default function ChatMessage({ message, onOptionSelect }: Props) {
                             <button
                                 key={option}
                                 onClick={() => onOptionSelect?.(option)}
-                                className="px-4 py-2 bg-gray-100 hover:bg-gray-200 rounded-full transition-colors"
+                                className="px-2 py-1 text-sm border rounded hover:bg-gray-100"
                             >
                                 {option}
                             </button>
@@ -45,34 +45,38 @@ export default function ChatMessage({ message, onOptionSelect }: Props) {
                     </div>
                 )}
                 {showOptions && ['age', 'income'].includes(expectingInput) && (
-                    <input
-                        type="number"
-                        className="w-full p-2 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                        placeholder={`Enter your ${expectingInput}`}
-                        onKeyDown={(e) => {
-                            if (e.key === 'Enter') {
-                                const target = e.target as HTMLInputElement;
-                                if (target.value) {
-                                    onOptionSelect?.(target.value);
+                    <div className="mt-2">
+                        <input
+                            type="number"
+                            className="w-full p-2 border rounded"
+                            placeholder={`Enter your ${expectingInput}`}
+                            onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
+                                if (e.key === 'Enter') {
+                                    const target = e.currentTarget;
+                                    if (target.value) {
+                                        onOptionSelect?.(target.value);
+                                    }
                                 }
-                            }
-                        }}
-                    />
+                            }}
+                        />
+                    </div>
                 )}
                 {showOptions && expectingInput === 'name' && (
-                    <input
-                        type="text"
-                        className="w-full p-2 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
-                        placeholder="Enter your name"
-                        onKeyDown={(e) => {
-                            if (e.key === 'Enter') {
-                                const target = e.target as HTMLInputElement;
-                                if (target.value) {
-                                    onOptionSelect?.(target.value);
+                    <div className="mt-2">
+                        <input
+                            type="text"
+                            className="w-full p-2 border rounded"
+                            placeholder="Enter your name"
+                            onKeyDown={(e: React.KeyboardEvent<HTMLInputElement>) => {
+                                if (e.key === 'Enter') {
+                                    const target = e.currentTarget;
+                                    if (target.value) {
+                                        onOptionSelect?.(target.value);
+                                    }
                                 }
-                            }
-                        }}
-                    />
+                            }}
+                        />
+                    </div>
                 )}
             </div>
         );

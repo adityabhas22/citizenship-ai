@@ -7,7 +7,7 @@ import SchemeResults from './SchemeResults';
 import { useEffect } from 'react';
 
 export default function ChatInterface() {
-    const { messages, isComplete, schemes, error } = useChat();
+    const { messages, isComplete, schemes, error, handleUserInput } = useChat();
 
     useEffect(() => {
         if (error) {
@@ -21,7 +21,8 @@ export default function ChatInterface() {
                 {messages && messages.map((message) => (
                     <ChatMessage 
                         key={message.id || Date.now()} 
-                        message={message} 
+                        message={message}
+                        onOptionSelect={handleUserInput}
                     />
                 ))}
                 {isComplete && schemes && (
@@ -36,4 +37,4 @@ export default function ChatInterface() {
             <ChatInput />
         </div>
     );
-} 
+}

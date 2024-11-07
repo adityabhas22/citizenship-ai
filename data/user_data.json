@@ -1,9 +1,9 @@
 {
-    "name": "adi",
+    "name": "Aditya",
     "age": 22,
-    "income": 1000.0,
+    "income": 10000.0,
     "gender": "male",
-    "residence": "rural",
+    "residence": "urban",
     "disability": "none",
     "family_status": "single",
     "education": "secondary"
