@@ -2,7 +2,7 @@ import sqlite3
 import json
 
 class SchemeDatabase:
-    def __init__(self, db_path='data/schemes_database.db'):
+    def __init__(self, db_path):
         self.conn = sqlite3.connect(db_path)
         self.cursor = self.conn.cursor()
 

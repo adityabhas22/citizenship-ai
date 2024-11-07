@@ -16,8 +16,8 @@ export default function ChatInterface() {
     }, [error]);
 
     return (
-        <div className="h-screen flex flex-col">
-            <div className="flex-1 overflow-y-auto">
+        <div className="h-screen flex flex-col bg-gray-50">
+            <div className="flex-1 overflow-y-auto p-4 space-y-4">
                 {messages && messages.map((message) => (
                     <ChatMessage 
                         key={message.id || Date.now()} 
@@ -28,7 +28,7 @@ export default function ChatInterface() {
                     <SchemeResults schemes={schemes} />
                 )}
                 {error && (
-                    <div className="p-4 text-red-500">
+                    <div className="p-4 bg-red-100 text-red-600 rounded-lg">
                         Error: {error}
                     </div>
                 )}

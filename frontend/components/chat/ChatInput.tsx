@@ -16,12 +16,12 @@ export default function ChatInput() {
     };
 
     return (
-        <form onSubmit={handleSubmit} className="p-4">
+        <form onSubmit={handleSubmit} className="p-4 bg-white border-t">
             <input
                 type="text"
                 value={input}
                 onChange={(e) => setInput(e.target.value)}
-                className="w-full p-2 border rounded"
+                className="w-full p-3 border rounded-lg focus:ring-2 focus:ring-blue-500 outline-none"
                 placeholder={isComplete ? "Chat complete" : "Type your answer..."}
                 disabled={isComplete}
             />

@@ -15,10 +15,39 @@ logger = logging.getLogger(__name__)
 project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.append(project_root)
 
+# Define database path
+DB_PATH = os.path.join(project_root, 'data', 'schemes_database.db')
+
 from modules.search_scheme import SchemeDatabase
 
 app = Flask(__name__)
 CORS(app)
+
+def init_db():
+    """Initialize the database if it doesn't exist"""
+    try:
+        if not os.path.exists(DB_PATH):
+            logger.info(f"Creating new database at {DB_PATH}")
+            conn = sqlite3.connect(DB_PATH)
+            cursor = conn.cursor()
+            
+            # Create schemes table
+            cursor.execute('''
+                CREATE TABLE IF NOT EXISTS schemes (
+                    scheme_name TEXT PRIMARY KEY,
+                    eligibility_criteria TEXT,
+                    benefits TEXT
+                )
+            ''')
+            
+            conn.commit()
+            conn.close()
+            logger.info("Database initialized successfully")
+        else:
+            logger.info(f"Database already exists at {DB_PATH}")
+    except Exception as e:
+        logger.error(f"Failed to initialize database: {e}")
+        raise
 
 @app.route('/save-user', methods=['POST'])
 def save_user():
@@ -30,10 +59,14 @@ def save_user():
         logger.debug(f"Received user data: {user_data}")
         
         # Convert numeric strings to appropriate types
-        if 'age' in user_data:
-            user_data['age'] = int(user_data['age'])
-        if 'income' in user_data:
-            user_data['income'] = float(user_data['income'])
+        try:
+            if 'age' in user_data:
+                user_data['age'] = int(float(user_data['age']))
+            if 'income' in user_data:
+                user_data['income'] = float(user_data['income'])
+        except ValueError as e:
+            logger.error(f"Error converting numeric values: {e}")
+            return jsonify({"error": "Invalid numeric value provided"}), 400
         
         # Save to data/user_data.json
         data_path = os.path.join(project_root, 'data', 'user_data.json')
@@ -47,18 +80,10 @@ def save_user():
         
         # Initialize SchemeDatabase and search for schemes
         try:
-            db_path = os.path.join(project_root, 'data', 'schemes_database.db')
-            logger.debug(f"Attempting to connect to database at: {db_path}")
-            
-            db = SchemeDatabase(db_path)
-            logger.debug("Successfully connected to database")
-            
-            logger.debug("Searching for schemes with user data...")
+            db = SchemeDatabase(DB_PATH)  # Pass the correct database path
             schemes = db.get_schemes_for_user(user_data)
             logger.debug(f"Retrieved schemes: {schemes}")
-            
             db.close()
-            logger.debug("Database connection closed")
             
             if schemes is None:
                 return jsonify({"error": "No schemes found"}), 404
@@ -70,9 +95,9 @@ def save_user():
             }), 200
             
         except Exception as e:
-            logger.error(f"Database error details: {str(e)}")
-            logger.exception("Full traceback:")  # This will log the full stack trace
-            return jsonify({"error": f"Failed to search schemes: {str(e)}"}), 500
+            logger.error(f"Database error: {e}")
+            logger.exception("Full traceback:")
+            return jsonify({"error": f"Database error: {str(e)}"}), 500
         
     except Exception as e:
         logger.error(f"Unexpected error: {e}")
@@ -80,4 +105,9 @@ def save_user():
         return jsonify({"error": str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True, port=3001)
+    try:
+        # Initialize database before starting the server
+        init_db()
+        app.run(debug=True, port=3001)
+    except Exception as e:
+        logger.error(f"Failed to start server: {e}")

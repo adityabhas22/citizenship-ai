@@ -56,7 +56,9 @@ export function ChatProvider({ children }: { children: ReactNode }) {
 
             const updatedUserData = {
                 ...userData,
-                [currentField]: input
+                [currentField]: currentField === 'age' || currentField === 'income' 
+                    ? Number(input) 
+                    : input
             };
             setUserData(updatedUserData);
 
@@ -95,6 +97,8 @@ export function ChatProvider({ children }: { children: ReactNode }) {
                 });
 
                 try {
+                    console.log('Sending user data:', updatedUserData);
+
                     const response = await fetch('http://localhost:3001/save-user', {
                         method: 'POST',
                         headers: {
@@ -104,19 +108,25 @@ export function ChatProvider({ children }: { children: ReactNode }) {
                     });
 
                     if (!response.ok) {
-                        throw new Error('Failed to save user data');
+                        const errorData = await response.json();
+                        throw new Error(errorData.error || 'Failed to save user data');
                     }
 
                     const data = await response.json();
-                    setSchemes(data.schemes);
-                    
-                    addMessage({
-                        content: "Here are the schemes that match your profile:",
-                        role: 'assistant'
-                    });
+                    console.log('Received response:', data);
+
+                    if (data.schemes) {
+                        setSchemes(data.schemes);
+                        addMessage({
+                            content: "Here are the schemes that match your profile:",
+                            role: 'assistant'
+                        });
+                    } else {
+                        throw new Error('No schemes data in response');
+                    }
                 } catch (error) {
-                    console.error('Error saving user data:', error);
-                    setError('Failed to save user data and fetch schemes');
+                    console.error('API Error:', error);
+                    setError(error instanceof Error ? error.message : 'Unknown error occurred');
                     addMessage({
                         content: "Sorry, I encountered an error while processing your information. Please try again later.",
                         role: 'assistant'
@@ -124,8 +134,8 @@ export function ChatProvider({ children }: { children: ReactNode }) {
                 }
             }
         } catch (error) {
-            console.error('Error handling user input:', error);
-            setError('Failed to process user input');
+            console.error('Error in handleUserInput:', error);
+            setError(error instanceof Error ? error.message : 'Failed to process input');
         }
     };
 

@@ -1,3 +1,4 @@
+import './globals.css'
 import { ChatProvider } from '../context/ChatContext'
 
 export default function RootLayout({
@@ -7,7 +8,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body>
+      <body className="bg-gray-100">
         <ChatProvider>
           {children}
         </ChatProvider>

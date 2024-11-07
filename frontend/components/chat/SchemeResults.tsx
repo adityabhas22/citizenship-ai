@@ -6,28 +6,17 @@ interface Props {
 
 export default function SchemeResults({ schemes }: Props) {
     if (!schemes) {
-        return <div className="p-4">No schemes found.</div>;
+        return <div className="p-4 text-gray-500">No schemes found.</div>;
     }
 
-    try {
-        return (
-            <div className="p-4">
-                <h2>Matching Schemes:</h2>
-                <div>
-                    {typeof schemes === 'string' ? (
-                        <pre>{schemes}</pre>
-                    ) : (
-                        <p>Error: Unexpected format for scheme data received. Please try again or contact support.</p>
-                    )}
-                </div>
+    return (
+        <div className="p-4 bg-white rounded-lg shadow-sm">
+            <h2 className="text-xl font-semibold mb-4">Matching Schemes:</h2>
+            <div className="space-y-4">
+                <pre className="whitespace-pre-wrap font-sans text-gray-700">
+                    {schemes}
+                </pre>
             </div>
-        );
-    } catch (error) {
-        console.error('Error rendering schemes:', error);
-        return (
-            <div className="p-4 text-red-500">
-                Error displaying schemes. Please try again.
-            </div>
-        );
-    }
+        </div>
+    );
 }
