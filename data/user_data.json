@@ -1,10 +1,10 @@
 {
-    "name": "adi",
-    "income": 1000,
-    "gender": "male",
+    "name": "Aditya",
     "age": 22,
+    "income": 1000.0,
+    "gender": "male",
     "residence": "rural",
     "disability": "none",
     "family_status": "single",
-    "education": "secondary"
+    "education": "primary"
 }
